@@ -18,14 +18,3 @@ The code includes the following functions:
 - `RemoveSpecific`: Removes a specific node from the linked list.
 - `ListLength`: Returns the number of nodes in the linked list.
 
-## Usage
-
-1. Clone the repository or download the project files.
-2. Compile the code using a C++ compiler (supporting C++11 or later) with the necessary header files included.
-3. Run the compiled executable.
-
-The code creates a linked list with 10 nodes and performs various operations such as inserting nodes at the root, specific positions, and the end. It also removes nodes from the list and calculates the size of the linked list.
-
-Please note that this implementation is for educational purposes and may not cover all scenarios or optimizations.
-
-Feel free to explore and modify the code to suit your specific needs. Happy coding!
